@@ -1,8 +1,8 @@
 body {
-    color:beige;
     padding: 30px;
     margin: 20px;
     border:black;
     font-family: serif;
+    background-color: beige;
 }
 h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
