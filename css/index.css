@@ -10,6 +10,7 @@ h1, h2, h3, h4, h5, h6 { font-family: sans-serif;
 ul {
     background-color: chocolate;
     width: 80%;
+    height: 20px;
     padding: 30px;
     margin: 20px;
     border:black;
