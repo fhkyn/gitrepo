@@ -11,3 +11,9 @@ li {
     color:crimson;
     padding: auto;
 }
+div {
+    margin:20px;
+    padding:30px;
+    float:left;
+    color:lightcoral
+}
