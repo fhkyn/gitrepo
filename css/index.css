@@ -14,12 +14,12 @@ ul {
     padding: 30px;
     margin: 20px;
     border:black;
+    text-align: center;
 }
 li {
     float:left;
     color:crimson;
-    padding: 20px;
-    background-color: rgb(178, 130, 10);
+     background-color: rgb(178, 130, 10);
     border:black;
 }
 div {
