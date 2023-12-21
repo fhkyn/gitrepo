@@ -19,6 +19,8 @@ ul {
 }
 li {
     float:left;
+    display: inline;
+    padding: 8px;
     color:crimson;
      background-color: rgb(178, 130, 10);
     border:black;
