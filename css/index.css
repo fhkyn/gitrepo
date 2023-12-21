@@ -7,10 +7,14 @@ body {
 }
 h1, h2, h3, h4, h5, h6 { font-family: sans-serif; 
     text-align: center;}
+ul {
+    background-color: chocolate;
+}
 li {
     float:left;
     color:crimson;
     padding: 20px;
+    background-color: rgb(178, 130, 10);
 }
 div {
     margin:20px;
